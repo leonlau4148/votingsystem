@@ -1,0 +1,25 @@
+Username	Password	Privilege	Status		Course
+admin		adminpass	admin		Administrator	admin
+0001		temppass	user		Verified	CABE
+0002		temppass	user		Verified	CEA 
+0003		temppass	user		Verified	CTE 
+0004		temppass	user		Verified	CCS 
+0005		temppass	user		Verified	CAH 
+0006		temppass	user		Verified	CMBS 
+0007		temppass	user		Verified	MUSIC 
+0008		temppass	user		Verified	NURSING
+0009		temppass	user		Verified	CHEFS 
+0010		temppass	user		Verified	CPC
+0011		temppass	user		Verified	CABE
+0012		temppass	user		Verified	CEA 
+0013		temppass	user		Verified	CTE 
+0014		temppass	user		Verified	CCS 
+0015		temppass	user		Verified	CAH 
+0016		temppass	user		Verified	CMBS 
+0017		temppass	user		NotVerified	MUSIC 
+0018		temppass	user		NotVerified	NURSING
+0019		temppass	user		NotVerified	CHEFS 
+0020		temppass	user		NotVerified	CPC
+0021		temppass	user		NotVerified	CABE
+0022		temppass	user		NotVerified	CEA 
+
